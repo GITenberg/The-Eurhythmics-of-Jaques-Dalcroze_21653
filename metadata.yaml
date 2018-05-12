@@ -1,0 +1,32 @@
+_repo: The-Eurhythmics-of-Jaques-Dalcroze_21653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jaques-Dalcroze, Émile
+    aliases:
+    - Jacques-Dalcroze, Émile
+    - Jaques-Dalcroze, Emile
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '24837'
+    url: http://www.gutenberg.org/2009/agents/24837
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Music -- Instruction and study'
+- !lcsh 'Musical meter and rhythm'
+- !lcsh 'Eurythmics'
+title: The Eurhythmics of Jaques-Dalcroze
+url: http://www.gutenberg.org/ebooks/21653
